@@ -1,4 +1,5 @@
-# Unity_games
+Unity games made for a video game design class during undergrad.
+
 Polar Plunge: a stealth game with 5 levels, a menu, and a victory screen.
 
 https://github.com/evanhollier/Unity_games/assets/38679400/e1c7ea03-d41c-4feb-a8dd-0c01ca2a87db
